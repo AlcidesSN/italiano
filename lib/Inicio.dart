@@ -16,7 +16,6 @@ class Inicio extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // Cabeçalho / boas-vindas
             Container(
               width: double.infinity,
               padding: const EdgeInsets.all(20),
